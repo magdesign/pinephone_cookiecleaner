@@ -28,6 +28,8 @@ Categories=Utility;
 validate and update desktop entry:
 
 ```desktop-file-validate /usr/share/applications/cookiecleaner.desktop```
-```update-desktop-database /usr/share/applications```
-```update-desktop-database ~/.local/share/applications```
+
+```sudo update-desktop-database /usr/share/applications```
+
+```sudo update-desktop-database ~/.local/share/applications```
 
