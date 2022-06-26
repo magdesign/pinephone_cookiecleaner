@@ -1,5 +1,5 @@
 # pinephone cookiecleaner
-#########################
+
 
 cleans away the cookies from angelfish (currently under manajro, kde)
 
@@ -31,3 +31,5 @@ validate and update desktop entry:
 ```sudo update-desktop-database /usr/share/applications```
 
 
+##to do:
+close window after cookies are deleted
