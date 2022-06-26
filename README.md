@@ -13,12 +13,11 @@ create a desktop entry ```/usr/share/applications/cookiecleaner.desktop``` conta
 
 ```
 [Desktop Entry]
-Encoding=UTF-8
 Name=Cookiecleaner
 Comment=Removes Angelfish Cookies on KDE
 Exec=/usr/local/bin/cookiecleaner.sh
 Icon=/usr/share/icons/hicolor/48x48/apps/cookiecleaner.png
-Terminal=true
+Terminal=false
 Type=Application
 StartupNotify=true
 Categories=Utility;
@@ -31,5 +30,4 @@ validate and update desktop entry:
 
 ```sudo update-desktop-database /usr/share/applications```
 
-```sudo update-desktop-database ~/.local/share/applications```
 
