@@ -30,6 +30,7 @@ validate and update desktop entry:
 
 ```sudo update-desktop-database /usr/share/applications```
 
+```sudo update-desktop-database /usr/local/share/application```
 
 ## to do:
 
