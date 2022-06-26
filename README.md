@@ -24,3 +24,7 @@ StartupNotify=true
 Categories=Utility;
 
 ```
+
+validate desktop entry:
+
+```desktop-file-validate /usr/share/applications/cookiecleaner.desktop```
