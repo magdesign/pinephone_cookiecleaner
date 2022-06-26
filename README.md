@@ -31,5 +31,6 @@ validate and update desktop entry:
 ```sudo update-desktop-database /usr/share/applications```
 
 
-##to do:
+## to do:
+
 close window after cookies are deleted
