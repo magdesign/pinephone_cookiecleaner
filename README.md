@@ -1,3 +1,6 @@
+Maintained version of this lives [now on codeberg](https://codeberg.org/magdesign/Pinephone_Cookie_Cleaner)
+
+
 # pinephone cookiecleaner
 
 
